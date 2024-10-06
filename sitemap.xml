@@ -47,7 +47,7 @@
 
   
   <url>
-    <loc>http://lirnut.site/tags/linux/</loc>
+    <loc>http://lirnut.site/tags/%E6%9D%82%E6%96%87/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -61,7 +61,7 @@
   </url>
   
   <url>
-    <loc>http://lirnut.site/tags/%E6%9D%82%E6%96%87/</loc>
+    <loc>http://lirnut.site/tags/linux/</loc>
     <lastmod>2024-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
