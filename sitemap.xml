@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://lirnut.site/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,21 +48,21 @@
   
   <url>
     <loc>http://lirnut.site/tags/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lirnut.site/tags/hexo/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lirnut.site/tags/linux/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
