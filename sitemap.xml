@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lirnut.site/2025/01/16/DDIM/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lirnut.site/2024/08/02/HelloWorld/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lirnut.site/2024/08/11/Linux%E7%AE%80%E6%98%8E%E5%AE%9E%E5%BD%95/</loc>
+    
+    <lastmod>2025-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lirnut.site/about/index.html</loc>
     
     <lastmod>2024-10-06</lastmod>
@@ -19,50 +46,32 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://lirnut.site/2024/08/02/HelloWorld/</loc>
-    
-    <lastmod>2024-09-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://lirnut.site/2024/08/11/Linux%E7%AE%80%E6%98%8E%E5%AE%9E%E5%BD%95/</loc>
-    
-    <lastmod>2024-09-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://lirnut.site/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2025-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://lirnut.site/tags/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <loc>http://lirnut.site/tags/paper/</loc>
+    <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://lirnut.site/tags/hexo/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <loc>http://lirnut.site/tags/essay/</loc>
+    <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://lirnut.site/tags/linux/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <loc>http://lirnut.site/tags/tech/</loc>
+    <lastmod>2025-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
